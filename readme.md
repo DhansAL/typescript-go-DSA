@@ -1,3 +1,3 @@
 Doodles - https://excalidraw.com/
-Go resources - golang dojo (youtube)
+Go
 Typescript
