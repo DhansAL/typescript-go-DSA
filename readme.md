@@ -13,6 +13,10 @@ cuz its easier than js.
 
 Goodbye to .tsconfig and no builds required. (RIP ts-node-dev :D)
 
+#### NOTE FOR DENO
+ refer - [https://stackoverflow.com/questions/65115527/how-can-i-avoid-the-an-import-path-cannot-end-with-ts-extension-error-in-vsco](this) for vs-code deno extension config. This avoids error thrown by vs code while importing .ts modules.
+
+
 # FILE STRUCTURE - wip
 
 Custom implemented Data structures will be kept at `/utils`.
