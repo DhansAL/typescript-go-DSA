@@ -8,3 +8,4 @@
 | 4        | 0,1,2 sort - EZ                 | Fresh  | 0         | 26-7-22 | false       | Typescript | lookup on the dutch flag algo again |
 | 5        | -ve to begining +ve to end - EZ | Fresh  | 0         | 26-7-22 | false       | Typescript | check on pointers                   |
 | 6        | union length arr                | Fresh  | 0         | 9-08-22 | true        | Typescript |                                     |
+| 7        | cyclic rotate arr elements      | Fresh  | 0         | 9-08-22 | true        | Typescript |                                     |
