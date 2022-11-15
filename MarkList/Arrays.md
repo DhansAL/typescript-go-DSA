@@ -9,4 +9,7 @@
 | 5        | -ve to begining +ve to end - EZ  | Fresh  | 0         | 26-7-22 | false       | Typescript | check on pointers                   |
 | 6        | union length arr -EZ             | Fresh  | 0         | 9-08-22 | true        | Typescript |                                     |
 | 7        | cyclic rotate arr elements -EZ   | Fresh  | 0         | 9-08-22 | true        | Typescript |                                     |
-| 8        | Largest subcontigious kadane-MED | Fresh  | 0         | 9-08-22 | true        | Typescript | REVISE ASAP on3 on2 on                 |
+| 8        | Largest subcontigious kadane-MED | Fresh  | 0         | 9-08-22 | true        | Typescript | REVISE ASAP on3 on2 on              |
+
+RESTARTING
+| 9 | MINIMIZE max difference-MED | Fresh | 0 | 15-11-22 | fakse | Typescript | Revise on +6days|
